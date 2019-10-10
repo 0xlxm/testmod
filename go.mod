@@ -1,3 +1,1 @@
-module github.com/0xlxm/testmod
-
-go 1.12
+module github.com/0xlxm/testmod/v2
